@@ -1,4 +1,4 @@
-## Hey, i'm Sai Aike 
+## Hey, I'm Sai Aike 
 But people call me Sasta or Crow. 
 
 CS undergrad. I spend most of my time below the application layer, but I also make apps in my free time. 
@@ -9,7 +9,7 @@ Started with Android/Kotlin, got more interested in what ran underneath it, and 
 
 ### What i am building right now
 
-**[paas-project]** - a lightweight self-hosted Platform-as-a-Service in Go.
+**`[paas-project](private for now)`** - a lightweight self-hosted Platform-as-a-Service in Go.
 Push code, get a running container. Automatic TLS, Traefik reverse proxy, Prometheus/Grafana observability. Building it because I wanted to understand what Heroku and Render actually do under the hood.
 
 ---
