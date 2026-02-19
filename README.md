@@ -55,4 +55,4 @@ learning     Kubernetes, Terraform, AWS
 
 ---
 
-[my linkedin](www.linkedin.com/in/sai-aike-shwe-tun-aung/)
+[My Linkedin](https://www.linkedin.com/in/sai-aike-shwe-tun-aung/)
