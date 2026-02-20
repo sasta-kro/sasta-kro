@@ -7,7 +7,6 @@ Now I manage headless Linux servers, write Go tooling, backend systems, and am b
 
 The pinned repos below are worth a look.
 
----
 ### Stack
 ```
 languages    Go, Python, Bash, Kotlin, SQL
@@ -17,7 +16,5 @@ tools        Neovim, Git, Cockpit, virsh, fzf, yazi, GNU Stow
 learning     Kubernetes, Terraform, AWS
 setup        Fedora + macOS · Colemak-DH · ~90wpm · Vim motions
 ```
-
----
-
+___
 [My LinkedIn](https://www.linkedin.com/in/sai-aike-shwe-tun-aung/)
