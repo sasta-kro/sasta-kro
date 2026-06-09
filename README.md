@@ -6,7 +6,8 @@ Now I manage headless Linux servers, write Go tooling, backend systems, and am b
 The pinned repos below are worth a look.
 ___
 ### My Github Activiy in 3D
-:small[The height uses a logrithemic curve so some days don't spike up the whole graph :D]
+<sup>The height uses a logrithemic curve so some days don't spike up the whole graph :D</sup>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
