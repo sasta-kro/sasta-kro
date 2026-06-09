@@ -5,7 +5,7 @@ Now I manage headless Linux servers, write Go tooling, backend systems, and am b
 
 The pinned repos below are worth a look.
 ___
-### My Github Activiy in 3D :D
+### My Github Activiy in 3D
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
