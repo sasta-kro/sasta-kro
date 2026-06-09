@@ -17,6 +17,5 @@ ___
   />
 </picture>
 
-___
 [My LinkedIn](https://www.linkedin.com/in/sai-aike-shwe-tun-aung/)
 
