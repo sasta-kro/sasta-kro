@@ -5,4 +5,18 @@ Now I manage headless Linux servers, write Go tooling, backend systems, and am b
 
 The pinned repos below are worth a look.
 ___
+### My Github Activiy in 3D :D
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sasta-kro/github-readme/main/output/contribs-dark.svg"
+  />
+  <img
+    alt="Isometric GitHub contribution chart"
+    src="https://raw.githubusercontent.com/sasta-kro/github-readme/main/output/contribs-light.svg"
+  />
+</picture>
+
+___
 [My LinkedIn](https://www.linkedin.com/in/sai-aike-shwe-tun-aung/)
+
