@@ -19,5 +19,5 @@ ___
   />
 </picture>
 
-[My LinkedIn](https://www.linkedin.com/in/sai-aike-shwe-tun-aung/)
+[My LinkedIn](https://www.linkedin.com/in/sai-aike-shwe-tun-aung/)  •  [My Email](sai.aike.shwe.tun.aung@gmail.com)
 
