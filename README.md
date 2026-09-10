@@ -25,17 +25,9 @@
 
 </div>
 
-<img
-  alt="Animated profile status ticker"
-  src="https://raw.githubusercontent.com/sasta-kro/github-readme/main/output/ticker.svg"
-  width="100%"
->
+<img alt="Animated profile status ticker" src="https://raw.githubusercontent.com/sasta-kro/github-readme/main/output/ticker.svg" width="100%">
 
-<img
-  alt="Animated Fedora terminal profile with rotating ASCII crest"
-  src="https://raw.githubusercontent.com/sasta-kro/github-readme/main/output/terminal.gif"
-  width="100%"
->
+<img alt="Animated Fedora terminal profile with rotating ASCII crest" src="https://raw.githubusercontent.com/sasta-kro/github-readme/main/output/terminal.gif" width="100%">
 
 ## Hey, I'm Sai Aike (Sasta for short)
 
