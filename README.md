@@ -36,7 +36,8 @@ I started with Android and Kotlin, then kept moving down the stack into Linux,
 containers, networking, and the systems that software runs on.
 
 I work mainly with Go, Python, Docker, PostgreSQL, and Fedora Linux. I am
-currently a DevOps intern and a computer science student at AU.
+currently a student/infra admin/developer at AU.
+
 
 ### Some of my Work
 
